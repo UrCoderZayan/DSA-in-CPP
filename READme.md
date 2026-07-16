@@ -22,4 +22,3 @@ Inside LeetCode/README.md, maintain a table like this:
 1920	Build Array from Permutation	Easy	O(n)	O(n)	✅
 1480	Running Sum of 1D Array	Easy	O(n)	O(1)	✅
 
-Over the next 42 days, this table will become a nice summary of everything you've solved.
