@@ -16,3 +16,10 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 
 
 
+Inside LeetCode/README.md, maintain a table like this:
+
+#	Problem	Difficulty	Time	Space	Status
+1920	Build Array from Permutation	Easy	O(n)	O(n)	✅
+1480	Running Sum of 1D Array	Easy	O(n)	O(1)	✅
+
+Over the next 42 days, this table will become a nice summary of everything you've solved.
