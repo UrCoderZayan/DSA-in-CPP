@@ -23,7 +23,7 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 66 | Plus One | Easy | O(n) | O(1) | ✅ |
 | 27 | Remove Element | Easy | O(n) | O(1) | ✅ |
 | 26 | Remove Duplicates from Sorted Array | Easy | O(n) | O(1) | ✅ |
-
+| 88 | Merge Sorted Array | Easy | O(m+n) | O(1) | ✅ |
 
 
 
