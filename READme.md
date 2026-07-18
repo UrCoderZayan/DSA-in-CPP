@@ -25,5 +25,6 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 26 | Remove Duplicates from Sorted Array | Easy | O(n) | O(1) | ✅ |
 | 88 | Merge Sorted Array | Easy | O(m+n) | O(1) | ✅ |
 | 283 | Move Zeroes | Easy | O(n) | O(1) | ✅ |
+| 75 | Sort Colors | Medium | O(n) | O(1) | ✅ |
 
 
