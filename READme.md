@@ -27,5 +27,6 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 283 | Move Zeroes | Easy | O(n) | O(1) | ✅ |
 | 75 | Sort Colors | Medium | O(n) | O(1) | ✅ |
 | 238 | Product of Array Except Self | Medium | O(n) | O(1) Extra | ✅ |
+| 31 | Next Permutation | Medium | O(n) | O(1) | ✅ |
 
 
