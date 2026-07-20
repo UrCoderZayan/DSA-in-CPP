@@ -30,5 +30,5 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 31 | Next Permutation | Medium | O(n) | O(1) | ✅ |
 | 485 | Max Consecutive Ones | Easy | O(n) | O(1) | ✅ |
 | 1295 | Find Numbers with Even Number of Digits | Easy | O(n) | O(1) | ✅ |
-
+| 905 | Sort Array By Parity | Easy | O(n) | O(1) | ✅ |
 
