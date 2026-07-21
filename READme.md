@@ -32,3 +32,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 1295 | Find Numbers with Even Number of Digits | Easy | O(n) | O(1) | ✅ |
 | 905 | Sort Array By Parity | Easy | O(n) | O(1) | ✅ |
 | 724 | Find Pivot Index | Easy | O(n) | O(1) | ✅ |
+| 509 | Fibonacci Number | Easy | O(2^n) | O(n) | ✅ |
