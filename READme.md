@@ -35,3 +35,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 509 | Fibonacci Number | Easy | O(2^n) | O(n) | ✅ |
 | 344 | Reverse String | Easy | O(n) | O(n) | ✅ |
 | 231 | Power of Two | Easy | O(log n) | O(log n) | ✅ |
+| 326 | Power of Three | Easy | O(log₃ n) | O(log₃ n) | ✅ |
