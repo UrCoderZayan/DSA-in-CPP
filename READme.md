@@ -39,3 +39,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 50 | Pow(x, n) | Medium | O(log n) | O(log n) | ✅ |
 | 342 | Power of Four | Easy | O(log₄ n) | O(log₄ n) | ✅ |
 | 390 | Elimination Game | Medium | O(log n) | O(log n) | ✅ |
+| 779 | K-th Symbol in Grammar | Medium | O(n) | O(n) | ✅ |
