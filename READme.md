@@ -42,3 +42,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 779 | K-th Symbol in Grammar | Medium | O(n) | O(n) | ✅ |
 | 704 | Binary Search | Easy | O(log n) | O(1) | ✅ |
 | 35 | Search Insert Position | Easy | O(log n) | O(1) | ✅ |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | O(log n) | O(1) | ✅ |
