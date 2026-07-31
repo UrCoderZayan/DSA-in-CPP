@@ -46,3 +46,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 69 | Sqrt(x) | Easy | O(log x) | O(1) | ✅ |
 | 374 | Guess Number Higher or Lower | Easy | O(log n) | O(1) | ✅ |
 | 278 | First Bad Version | Easy | O(log n) | O(1) | ✅ |
+| 852 | Peak Index in a Mountain Array | Medium | O(log n) | O(1) | ✅ |
