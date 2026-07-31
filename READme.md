@@ -44,3 +44,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 35 | Search Insert Position | Easy | O(log n) | O(1) | ✅ |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | O(log n) | O(1) | ✅ |
 | 69 | Sqrt(x) | Easy | O(log x) | O(1) | ✅ |
+| 374 | Guess Number Higher or Lower | Easy | O(log n) | O(1) | ✅ |
