@@ -49,3 +49,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 852 | Peak Index in a Mountain Array | Medium | O(log n) | O(1) | ✅ |
 | 33 | Search in Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
+| 912 | Sort an Array | Medium | O(n log n) | O(n) | ✅ |
