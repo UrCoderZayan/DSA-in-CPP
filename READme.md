@@ -50,3 +50,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 33 | Search in Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
 | 912 | Sort an Array | Medium | O(n log n) | O(n) | ✅ |
+| 1051 | Height Checker | Easy | O(n log n) | O(n) | ✅ |
