@@ -53,3 +53,5 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 1051 | Height Checker | Easy | O(n log n) | O(n) | ✅ |
 | 56 | Merge Intervals | Medium | O(n log n) | O(n) | ✅ |
 | 435 | Non-overlapping Intervals | Medium | O(n log n) | O(1) | ✅ |
+| 347 | Top K Frequent Elements | Medium | O(n log n) | O(n) | ✅ |
+| 179 | Largest Number | Medium | O(n log n) | O(n) | ✅ |
