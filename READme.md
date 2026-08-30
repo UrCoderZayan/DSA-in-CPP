@@ -55,3 +55,6 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 435 | Non-overlapping Intervals | Medium | O(n log n) | O(1) | ✅ |
 | 347 | Top K Frequent Elements | Medium | O(n log n) | O(n) | ✅ |
 | 179 | Largest Number | Medium | O(n log n) | O(n) | ✅ |
+| 853 | Car Fleet | Medium | O(n log n) | O(n) | ✅ |
+| 406 | Queue Reconstruction by Height | Medium | O(n²) | O(n) | ✅ |
+| 217 | Contains Duplicate | Easy | O(n) | O(n) | ✅ |
