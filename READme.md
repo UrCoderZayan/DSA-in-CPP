@@ -60,3 +60,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 217 | Contains Duplicate | Easy | O(n) | O(n) | ✅ |
 | 53 | Maximum Subarray | Medium | O(n) | O(1) | ✅ |
 | 121 | Best Time to Buy and Sell Stock | Easy | O(n) | O(1) | ✅ |
+| 977 | Squares of a Sorted Array | Easy | O(n) | O(n) | ✅ |
