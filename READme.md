@@ -62,3 +62,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 121 | Best Time to Buy and Sell Stock | Easy | O(n) | O(1) | ✅ |
 | 977 | Squares of a Sorted Array | Easy | O(n) | O(n) | ✅ |
 | 349 | Intersection of Two Arrays | Easy | O(n + m) | O(n + m) | ✅ |
+| 162 | Find Peak Element | Medium | O(log n) | O(1) | ✅ |
