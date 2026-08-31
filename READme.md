@@ -58,3 +58,5 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 853 | Car Fleet | Medium | O(n log n) | O(n) | ✅ |
 | 406 | Queue Reconstruction by Height | Medium | O(n²) | O(n) | ✅ |
 | 217 | Contains Duplicate | Easy | O(n) | O(n) | ✅ |
+| 53 | Maximum Subarray | Medium | O(n) | O(1) | ✅ |
+| 121 | Best Time to Buy and Sell Stock | Easy | O(n) | O(1) | ✅ |
