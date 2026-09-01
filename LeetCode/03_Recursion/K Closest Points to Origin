@@ -1,0 +1,71 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+class Solution {
+private:
+    bool backtrack(vector<int>& nums, vector<int>& subsets,
+                   int index, int target) {
+
+        if (index == nums.size()) {
+            for (int sum : subsets) {
+                if (sum != target) {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        int current = nums[index];
+
+        for (int i = 0; i < subsets.size(); i++) {
+
+            if (subsets[i] + current > target) {
+                continue;
+            }
+
+            subsets[i] += current;
+
+            if (backtrack(nums, subsets, index + 1, target)) {
+                return true;
+            }
+
+            // Backtrack: undo the previous choice
+            subsets[i] -= current;
+
+            // Avoid trying identical empty subsets
+            if (subsets[i] == 0) {
+                break;
+            }
+        }
+
+        return false;
+    }
+
+public:
+    bool canPartitionKSubsets(vector<int>& nums, int k) {
+
+        int totalSum = 0;
+
+        for (int num : nums) {
+            totalSum += num;
+        }
+
+        if (totalSum % k != 0) {
+            return false;
+        }
+
+        int target = totalSum / k;
+
+        sort(nums.rbegin(), nums.rend());
+
+        if (nums[0] > target) {
+            return false;
+        }
+
+        vector<int> subsets(k, 0);
+
+        return backtrack(nums, subsets, 0, target);
+    }
+};

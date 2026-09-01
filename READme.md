@@ -67,3 +67,4 @@ This repository documents my 42-day journey of learning Data Structures and Algo
 | 4 | Median of Two Sorted Arrays | Hard | O(log(min(n,m))) | O(1) | ✅ |
 | 215 | Kth Largest Element in an Array | Medium | O(n log n) | O(log n) | ✅ |
 | 973 | K Closest Points to Origin | Medium | O(n log n) | O(log n) | ✅ |
+| 698 | Partition to K Equal Sum Subsets | Medium | O(k^n) | O(n) | ✅ |
